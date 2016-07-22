@@ -129,7 +129,7 @@ Message Details (Copter specific)
 +-----------+--------------------------------------------------------------------------------------------------------+
 | PitchIn   | The pilot's desired pitch angle in centi-degrees (pitch forward is negative, pitch back is positive)   |
 +-----------+--------------------------------------------------------------------------------------------------------+
-| Pitch     | The vehicle's actual pitch angle in centi-degrees (roll left is negative, right is positive)           |
+| Pitch     | The vehicle's actual pitch angle in centi-degrees (pitch forward is negative, pitch back is positive)  |
 +-----------+--------------------------------------------------------------------------------------------------------+
 | YawIn     | Tthe pilot's desired yaw rate as a number from -4500 ~ 4500 (not in deg/sec, clockwise is positive)    |
 +-----------+--------------------------------------------------------------------------------------------------------+
